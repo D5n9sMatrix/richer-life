@@ -1,0 +1,24 @@
+﻿[Project]
+ProjectName=life
+Type=1
+MainFile=
+PassOneFile=
+TargetName=matrix
+FocusOn=
+CompilerArgs=dub run life
+CompilerOption=
+Comment=
+CompilerPath=
+[IncludeDirs]
+[LibDirs]
+[Sources]
+name=norms/matrix.d
+name=norms/vectors.d
+name=norms/hornration.d
+name=norms/analysis.d
+name=norms/config.d
+name=norms/physics.d
+[Includes]
+[Others]
+[Misc]
+[Focus]

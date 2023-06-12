@@ -1,0 +1,2 @@
+/usr/bin/ar qc libricher-life.a CMakeFiles/richer-life.dir/richer-life.cpp.o
+/usr/bin/ranlib libricher-life.a

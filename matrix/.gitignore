@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/richerlife
+richerlife.so
+richerlife.dylib
+richerlife.dll
+richerlife.a
+richerlife.lib
+richerlife-test-*
+*.exe
+*.o
+*.obj
+*.lst

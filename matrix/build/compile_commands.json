@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/richer-life/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/richer-life.dir/richer-life.cpp.o -c /home/denis/Projects/richer-life/matrix/richer-life.cpp",
+  "file": "/home/denis/Projects/richer-life/matrix/richer-life.cpp"
+}
+]
